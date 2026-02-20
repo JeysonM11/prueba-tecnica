@@ -94,7 +94,7 @@ Elimina un usuario por su documento.
 **Respuesta exitosa (200):**
 ```json
 {
-  "message": "Usuario eliminado correctamente"
+  "message": "deleted"
 }
 ```
 

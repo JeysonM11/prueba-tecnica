@@ -36,7 +36,7 @@ const deleteUser = (req, res) => {
 
   users.splice(index, 1);
 
-  res.json({ message: "Usuario eliminado correctamente" });
+  res.json({ message: "deleted" });
 };
 
 module.exports = {
