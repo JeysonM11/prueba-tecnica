@@ -125,6 +125,7 @@ Los datos se almacenan **en memoria** (array). Los datos se perderán al reinici
 
 ## Autor
 
-Jeyso
+Jeyson Miranda.
+
 
 
