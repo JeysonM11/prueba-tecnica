@@ -141,17 +141,6 @@ const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:3001';
 2. **Documento numérico:** Solo acepta dígitos (0-9)
 3. **Documento único:** Validado por el backend
 
-## Mejoras Sugeridas
-
-- [ ] Agregar búsqueda/filtrado en la tabla
-- [ ] Implementar paginación
-- [ ] Agregar edición de usuarios
-- [ ] Agregar tests unitarios (Jest + React Testing Library)
-- [ ] Implementar variables de entorno para URLs
-- [ ] Agregar validación de longitud de documento
-- [ ] Mejorar accesibilidad (a11y)
-- [ ] Agregar modo oscuro
-
 ## Notas
 
 - El backend debe estar corriendo antes de usar la aplicación

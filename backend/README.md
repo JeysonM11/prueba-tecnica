@@ -115,10 +115,6 @@ Elimina un usuario por su documento.
 
 Los datos se guardan **en memoria** (array). Los datos se pierden al reiniciar el servidor.
 
-Para implementar persistencia permanente, puedes:
-- Guardar en archivo JSON
-- Usar base de datos (MongoDB, PostgreSQL, etc.)
-
 ## Dependencias
 
 ```json
